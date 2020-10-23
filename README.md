@@ -6,3 +6,8 @@ primer git pedralbes
   * Pere
   * Maria
   * Joan
+  * Arnau
+  * Pau
+
+
+He afegit index.html
