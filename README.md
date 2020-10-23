@@ -5,3 +5,4 @@ primer git pedralbes
   * Joan
   * Pere
   * Maria
+  * Joan
